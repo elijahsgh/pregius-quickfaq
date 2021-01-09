@@ -8,6 +8,10 @@ Ball Pythons, or Royal Pythons, (_python regius_) are a species of python found 
 
 Ball pythons should not be kept below 75°F (24°C) or above 90°F (32°C). Daytime temperatures should have a basking spot approximately 88°F (31°C) with a temperature gradient as low as 80°F (27°C). Temperatures at night should be allowed to fall as low as 75°F (24°C). Some keepers and breeders offer no nighttime temperature drop at all. For the welfare of the animal the recommended range is **above 75°F (24°C) and below 90°F (32°C)**.
 
+## Humidity Requirements
+
+Ball pythons can tolerate a large range of humidity. They do best at **50-60% relative humidity**. Humidity is critical for animal welfare and should be maintained. A lack of humidity can cause the animal to be more susceptible to disease and dehydration. Too much humidity can lead to standing water and a wet environment that can cause skin problems.
+
 ## Do Ball Pythons Climb?
 
 Ball pythons will easily climb over the side of an unsecured aquarium. They can navigate a height gradient (stacks of rocks, branches, etc). Both in captivity and in the wild these snakes have been observed off of the ground. This type of enrichment can be beneficial to the animal and rewarding to watch for the keeper.
